@@ -1,0 +1,20 @@
+body{
+	background-color:#8080ff;
+	font-family:"Futura Media";
+	color:white;
+}
+
+.wrap {s
+float: left;
+margin: 10px;
+}
+
+.donaldgraph {
+display: block;
+margin: 30px;
+}
+
+.hillarygraph{
+display: block;
+margin: 30px;
+}
